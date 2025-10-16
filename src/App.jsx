@@ -10,7 +10,7 @@ export default function App() {
       <TaskForm />
       <TaskList />
       <ProgressTracker />
-      <button>Clear All Tasks</button>
+      <button>Clear All</button>
     </div>
   )
 }
